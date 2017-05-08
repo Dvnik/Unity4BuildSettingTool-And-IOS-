@@ -1,0 +1,93 @@
+﻿{
+  "SettingName": "DefaultSet",
+  "CompanyName": "DefaultCompany",
+  "ProductName": "Empty",
+  "ScriptDefine": null,
+  "UIOrientation": 4,
+  "OrienRoatable": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "StatusBarHidden": true,
+  "Use32BitDisplayBuffer": true,
+  "FacebookID": null,
+  "BundleID": "com.Company.ProductName",
+  "BundleVer": "1.0",
+  "ApiCompatibilityLevel": 2,
+  "StrippingLevel": 0,
+  "IconSetStatus": false,
+  "DefIcons": [
+    ""
+  ],
+  "MobileSplashImages": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "AndroidSet": {
+    "ShowActivityIndicatorOnLoading": -1,
+    "SplashScreenScale": 0,
+    "BundleCode": 1,
+    "SdkVersions": 9,
+    "TargetDevice": 0,
+    "TargetGraphice": 1,
+    "ForceInternet": false,
+    "ForceSDCard": false,
+    "KeyStorePath": "",
+    "KeyStorePassword": "",
+    "KeyAlialsName": "",
+    "KeyAlialsPassword": "",
+    "ManifestVersionCode": null,
+    "ManifestVersionName": null,
+    "IconSetStatus": true,
+    "IconOverride": false,
+    "DefIcons": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "SplashSetStatus": true
+  },
+  "IOSSet": {
+    "StatusBarStyle": 0,
+    "ShowActivityIndicatorOnLoading": -1,
+    "TargetDevice": 2,
+    "TargetResolution": 0,
+    "TargetGraphics": -1,
+    "SDKVersion": 988,
+    "TargetOSVersion": 20,
+    "ScriptCallOptimizationLevel": 0,
+    "ScriptingBackend": 0,
+    "Architecture": 0,
+    "OverrideIPodMusic": false,
+    "PrepareIOSForRecording": false,
+    "RequiresPersistentWiFi": false,
+    "ExitOnSuspend": false,
+    "PrerenderedIcon": false,
+    "IconSetStatus": true,
+    "IconOverride": false,
+    "DefIcons": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "SplashSetStatus": true
+  }
+}
